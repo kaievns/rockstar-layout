@@ -33,6 +33,15 @@ Here is the picture
 * Go to the keyboard preferences and add the `Rockstar` layout
 * Ask here in issues if nothing works
 
+## Training
+
+If you want to give this a go, I have created a custom support module for the
+[TypeFu app](http://type-fu.com):
+
+https://github.com/MadRabbit/typefu-rockstar-support
+
+Let me know if you create support for something else, I'll add it in here.
+
 ## Copyright & License
 
 I'm not sure if there is a point in this, but if anyone asks, it's all MIT.
