@@ -19,7 +19,7 @@ On top of that I've added several programmer specific optimizations
 * Swapped numbers and symbols for more efficient programming in general
 * Swapped `_` and `-` for easier snake style variable names
 * Swapped `[]` and `{}` for easier curly brackets access in JavaScript/CSS/...
-* Swapped `|` and `\` coz, who really needs a backslash anyways?
+* Swapped `|` and `\` so that logical operator would be accessible same as `&`
 
 Here is the picture
 
